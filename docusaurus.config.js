@@ -51,7 +51,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://vfde-eagles-docs.netlify.com/edit/master/website/',
+            '/edit/master/website/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
