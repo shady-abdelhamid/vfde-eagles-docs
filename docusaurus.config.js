@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Eagles',
   tagline: 'docs',
-  url: 'https://vfde-eagles-docs.github.io',
+  url: 'https://shady-abdelhamid.github.io/vfde-eagles-docs/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'shady-abdelhamid', // Usually your GitHub org/user name.
